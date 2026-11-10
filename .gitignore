@@ -2,7 +2,6 @@
 data
 data/
 mini_rome*.zip
-*_cloud/
 .setup-*/
 .venv/
 uv.lock
@@ -10,3 +9,6 @@ uv.lock
 __pycache__/
 *.part
 *.unzipping/
+
+# notebook copies written by nbconvert
+executed_*.ipynb

@@ -1,0 +1,8 @@
+downloading https://github.com/pikabell/es666-rome-in-a-day/releases/download/data-1/taj_mahal.zip
+150 photos (long side at most 640 px); focal length from EXIF for 1, guessed (1.2 x the long side) for the others
+settings: top_k 10, rounds 2, min_inliers 20, long_side 640, focal 1.2, dense_images 64
+2,233 pairs checked with your match_descriptors, 576 of them real (98 s)
+largest group: 76 of 150 photos
+placed 61 of 76 photos: 3,210 points, rms 0.74 px
+dense cloud: 103,097 points, sparse: 3,210; 196 s in all
+wrote taj_mahal_cloud: dense.ply, sparse.ply (MeshLab, CloudCompare, Blender), view.html, cameras.csv, summary.txt
